@@ -1,0 +1,61 @@
+*{
+    font: 12px sans-serif;
+}
+
+.botao {
+    width: 115px;
+    height: 15px;
+    text-align: center;
+    padding:10px;
+    border-radius:5px;
+    color:white;
+    background:#99ca41;
+    font-weight:bold;
+}
+
+header > nav{
+    float: right;
+     
+}
+
+header > nav > a {
+    padding: 25px 10px;
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+}
+section{
+   text-align:center;
+}
+
+header{
+    margin-top:25px;
+    height:80px;
+}
+
+.logomarca{
+    width: 360px;
+    height: 300px;
+
+}
+
+body{
+    background-image: url("imagens/FUNDO.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 100%;
+    
+}
+
+section > figure{
+
+    float:left;
+    width: 250px;
+    height: 8cm;
+    text-align:center;
+    
+}
+#home{
+ color:white;
+}
+
