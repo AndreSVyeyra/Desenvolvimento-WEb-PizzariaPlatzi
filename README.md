@@ -1,3 +1,3 @@
 # Estou criando o meu primeiro site
 
-## EStou cursando na platzi
+## Estou cursando na platzi
