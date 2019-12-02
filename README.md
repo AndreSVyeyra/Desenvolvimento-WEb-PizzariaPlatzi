@@ -1,3 +1,11 @@
-# Estou criando o meu primeiro site
+# PIzzaria Plazti
 
-## Estou cursando na platzi
+## Site para uma pizzaria
+
+### Obetivos
+
+- Maior facilidade para atender os cliente
+
+- Bem dinamica
+
+- Cores empolgantes de acordo com o Desing
