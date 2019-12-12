@@ -2,7 +2,7 @@
     font: 12px sans-serif;
 }
 
-.botao {
+#botao {
     width: 115px;
     height: 15px;
     text-align: center;
@@ -13,12 +13,12 @@
     font-weight:bold;
 }
 
-header > nav{
+.header-maior > nav{
     float: right;
      
 }
 
-header > nav > a {
+.header-maior > nav > a {
     padding: 25px 10px;
     text-decoration:none;
     color:black;
@@ -28,12 +28,12 @@ section{
    text-align:center;
 }
 
-header{
+.header-maior{
     margin-top:25px;
     height:80px;
 }
 
-.logomarca{
+.homeLogoMarca > img{
     width: 360px;
     height: 260px;
     margin-left: 30px;
@@ -42,7 +42,7 @@ header{
 
 }
 
-body{
+.corpo-principal{
     background-image: url("imagens/FUNDO.png");
     background-repeat: no-repeat;
     background-position: right top;
@@ -167,4 +167,44 @@ section > footer{
     margin-left: 0px;
    
 }
+
+#header-menor{
+    margin-top:0px;
+    background-color: #98ca3f;
+    display: flex;
+    flex-direction:row;
+    align-items:center;
+}
+
+#header-esquerda{
+
+    margin:auto;
+}
+
+#header-direita{
+    margin:auto;
+    
+}
+
+#botao-pedido{
+    width: 115px;
+    height: 15px;
+    text-align: center;
+    padding:10px;
+    border-radius:5px;
+    color:white;
+    background:#140138;
+    font-weight:bold;
+    margin-left:35px;
+}
+
+#botao-home{
+    margin-left:35px;
+    color:white;
+}
+#botao-receita{
+    margin-left:35px;
+    color:white;
+}
+
 
