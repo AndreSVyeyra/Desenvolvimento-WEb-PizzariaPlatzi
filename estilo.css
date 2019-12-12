@@ -263,5 +263,12 @@ section > footer{
     margin:auto;
 }
 
+#header-pedido{
+    margin-top:0px;
+    background-color: #98ca3f;
+    display: flex;
+    flex-direction:row;
+    align-items:center;
+}
 
 
